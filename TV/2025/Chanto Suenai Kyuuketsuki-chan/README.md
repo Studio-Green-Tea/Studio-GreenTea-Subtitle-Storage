@@ -4,8 +4,8 @@
 
 # Chanto Suenai Kyuuketsuki-chan
 
-本目录收录《Chanto Suenai Kyuuketsuki-chan》的字幕文件。
-这里保留本作在仓库中的字幕与说明文件，便于检索和后续维护。
+《Chanto Suenai Kyuuketsuki-chan》是一部校园喜剧，主角是外表神秘却连吸血都不太擅长的吸血鬼少女。
+故事围绕她与知晓秘密的同学逐步拉近距离的日常展开，以反差感和轻松氛围为主。
 
 ## 字幕说明
 

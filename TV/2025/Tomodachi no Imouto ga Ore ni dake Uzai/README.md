@@ -4,8 +4,8 @@
 
 # Tomodachi no Imouto ga Ore ni dake Uzai
 
-本目录收录《Tomodachi no Imouto ga Ore ni dake Uzai》的字幕文件。
-这里保留本作在仓库中的字幕与说明文件，便于检索和后续维护。
+《Tomodachi no Imouto ga Ore ni dake Uzai》是一部校园恋爱喜剧，围绕大星明照、总爱对他撒娇拌嘴的小日向彩羽，以及他身边的创作伙伴展开。
+作品一边描写吵吵闹闹的人际关系，一边把恋爱拉扯与游戏创作社团的日常交织在一起。
 
 ## 字幕说明
 

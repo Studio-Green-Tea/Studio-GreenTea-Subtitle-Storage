@@ -4,8 +4,8 @@
 
 # My Status As An Assassin Obviously Exceeds The Hero's
 
-本目录收录《My Status As An Assassin Obviously Exceeds The Hero's》的字幕文件。
-这里保留本作在仓库中的字幕与说明文件，便于检索和后续维护。
+《My Status As An Assassin Obviously Exceeds The Hero's》是一部异世界奇幻作品，讲述与同学一同被召唤到异世界的少年，凭借“暗杀者”职阶与异常能力卷入王国阴谋。
+作品兼具成长型战斗展开，以及对召唤背后权力与算计的描写。
 
 ## 字幕说明
 

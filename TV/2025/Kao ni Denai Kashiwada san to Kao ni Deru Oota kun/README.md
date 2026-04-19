@@ -4,8 +4,8 @@
 
 # Kao ni Denai Kashiwada san to Kao ni Deru Oota kun
 
-本目录收录《Kao ni Denai Kashiwada san to Kao ni Deru Oota kun》的字幕文件。
-这里保留本作在仓库中的字幕与说明文件，便于检索和后续维护。
+《Kao ni Denai Kashiwada san to Kao ni Deru Oota kun》是一部以“面无表情的柏田同学”和“情绪全写在脸上的太田同学”为核心的校园恋爱喜剧。
+作品用鲜明反差推动人物互动，整体气质轻松又温暖。
 
 ## 字幕说明
 

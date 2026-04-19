@@ -4,8 +4,8 @@
 
 # Chichi wa Eiyuu Haha wa Seirei Musume no Watashi wa Tenseisha
 
-本目录收录《Chichi wa Eiyuu Haha wa Seirei Musume no Watashi wa Tenseisha》的字幕文件。
-这里保留本作在仓库中的字幕与说明文件，便于检索和后续维护。
+《Chichi wa Eiyuu Haha wa Seirei Musume no Watashi wa Tenseisha》是一部以“英雄父亲、精灵母亲、转生女儿”一家人为核心的异世界奇幻作品。
+故事从温馨家族日常出发，逐渐带出王族历史与精灵诅咒相关的长线谜团。
 
 ## 字幕说明
 

@@ -4,8 +4,8 @@
 
 # Virgin Punk Clockwork Girl
 
-本目录收录《Virgin Punk Clockwork Girl》的字幕文件。
-这里保留本作在仓库中的字幕与说明文件，便于检索和后续维护。
+《Virgin Punk Clockwork Girl》是一部赛博朋克风格的原创动画，舞台设定在义体技术高度发达的 2099 年。
+故事聚焦赏金猎人羽舞与非法改造犯罪、以及操控她命运的人之间的冲突，风格偏硬派动作与黑色科幻。
 
 ## 字幕说明
 

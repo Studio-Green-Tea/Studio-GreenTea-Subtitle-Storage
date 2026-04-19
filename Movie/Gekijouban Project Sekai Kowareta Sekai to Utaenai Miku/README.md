@@ -4,8 +4,8 @@
 
 # Gekijouban Project Sekai Kowareta Sekai to Utaenai Miku
 
-本目录收录《Gekijouban Project Sekai Kowareta Sekai to Utaenai Miku》的字幕文件。
-这里保留本作在仓库中的字幕与说明文件，便于检索和后续维护。
+《Gekijouban Project Sekai Kowareta Sekai to Utaenai Miku》是《HATSUNE MIKU: COLORFUL STAGE!》的剧场版动画，以涩谷与由情感构成的“SEKAI”为舞台。
+故事围绕一位无法把歌声传达给他人的新“初音未来”展开，并借由各组合与虚拟歌手的音乐把分散的心意重新连接起来。
 
 ## 字幕说明
 
