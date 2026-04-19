@@ -17,7 +17,6 @@
 ```text
 TV/
   2025/
-    10/
       作品目录/
         README.md
         [Studio GreenTea] 作品名 [01][WebRip][1080p].JPSC.ass
