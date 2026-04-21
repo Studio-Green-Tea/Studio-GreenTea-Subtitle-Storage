@@ -2,9 +2,9 @@
   <img src="./cover.webp" alt="作品封面" width="800" style="border-radius: 8px; margin-bottom: 16px;"/>
 </center>
 
-# Spy x Family Season 3
+# 间谍过家家 Season 3
 
-《Spy x Family Season 3》延续了福杰一家“间谍、杀手、读心少女”彼此隐瞒身份却共同生活的设定。
+《间谍过家家 Season 3》延续了福杰一家“间谍、杀手、读心少女”彼此隐瞒身份却共同生活的设定。
 第三季在家庭喜剧与谍报动作之外，也继续推进安妮亚、劳埃德与约尔各自面对的任务与风波。
 
 ## 字幕说明

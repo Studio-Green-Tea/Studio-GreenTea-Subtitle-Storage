@@ -2,9 +2,9 @@
   <img src="./cover.webp" alt="作品封面" width="800" style="border-radius: 8px; margin-bottom: 16px;"/>
 </center>
 
-# Virgin Punk Clockwork Girl
+# 处女朋克 发条少女
 
-《Virgin Punk Clockwork Girl》是一部赛博朋克风格的原创动画，舞台设定在义体技术高度发达的 2099 年。
+《处女朋克 发条少女》是一部赛博朋克风格的原创动画，舞台设定在义体技术高度发达的 2099 年。
 故事聚焦赏金猎人羽舞与非法改造犯罪、以及操控她命运的人之间的冲突，风格偏硬派动作与黑色科幻。
 
 ## 字幕说明

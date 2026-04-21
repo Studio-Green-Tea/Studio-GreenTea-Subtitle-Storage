@@ -2,9 +2,9 @@
   <img src="./cover.webp" alt="作品封面" width="800" style="border-radius: 8px; margin-bottom: 16px;"/>
 </center>
 
-# Tomodachi no Imouto ga Ore ni dake Uzai
+# 朋友的妹妹只喜欢烦我
 
-《Tomodachi no Imouto ga Ore ni dake Uzai》是一部校园恋爱喜剧，围绕大星明照、总爱对他撒娇拌嘴的小日向彩羽，以及他身边的创作伙伴展开。
+《朋友的妹妹只喜欢烦我》是一部校园恋爱喜剧，围绕大星明照、总爱对他撒娇拌嘴的小日向彩羽，以及他身边的创作伙伴展开。
 作品一边描写吵吵闹闹的人际关系，一边把恋爱拉扯与游戏创作社团的日常交织在一起。
 
 ## 字幕说明

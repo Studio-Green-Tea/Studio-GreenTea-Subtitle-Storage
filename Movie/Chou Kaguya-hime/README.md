@@ -2,9 +2,9 @@
   <img src="./cover.webp" alt="作品封面" width="800" style="border-radius: 8px; margin-bottom: 16px;"/>
 </center>
 
-# Chou Kaguya-hime
+# 超时空辉夜姬
 
-《Chou Kaguya-hime》是一部将《竹取物语》重新解构为近未来音乐奇幻的长篇动画电影。
+《超时空辉夜姬》是一部将《竹取物语》重新解构为近未来音乐奇幻的长篇动画电影。
 故事围绕女高中生酒寄彩叶与来自月球的少女辉夜展开，把虚拟世界、直播竞赛与青春成长交织在一起。
 
 ## 字幕说明

@@ -2,9 +2,9 @@
   <img src="./cover.webp" alt="作品封面" width="800" style="border-radius: 8px; margin-bottom: 16px;"/>
 </center>
 
-# Gekijouban Project Sekai Kowareta Sekai to Utaenai Miku
+# 世界计划 无法歌唱的初音未来 
 
-《Gekijouban Project Sekai Kowareta Sekai to Utaenai Miku》是《HATSUNE MIKU: COLORFUL STAGE!》的剧场版动画，以涩谷与由情感构成的“SEKAI”为舞台。
+《世界计划 无法歌唱的初音未来》是《HATSUNE MIKU: COLORFUL STAGE!》的剧场版动画，以涩谷与由情感构成的“SEKAI”为舞台。
 故事围绕一位无法把歌声传达给他人的新“初音未来”展开，并借由各组合与虚拟歌手的音乐把分散的心意重新连接起来。
 
 ## 字幕说明

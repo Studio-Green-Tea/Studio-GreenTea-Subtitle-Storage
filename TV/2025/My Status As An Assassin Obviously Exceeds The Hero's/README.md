@@ -2,9 +2,9 @@
   <img src="./cover.webp" alt="作品封面" width="800" style="border-radius: 8px; margin-bottom: 16px;"/>
 </center>
 
-# My Status As An Assassin Obviously Exceeds The Hero's
+#  身为暗杀者的我明显比勇者还强
 
-《My Status As An Assassin Obviously Exceeds The Hero's》是一部异世界奇幻作品，讲述与同学一同被召唤到异世界的少年，凭借“暗杀者”职阶与异常能力卷入王国阴谋。
+《身份为暗杀者的我明显比勇者还强》是一部异世界奇幻作品，讲述与同学一同被召唤到异世界的少年，凭借“暗杀者”职阶与异常能力卷入王国阴谋。
 作品兼具成长型战斗展开，以及对召唤背后权力与算计的描写。
 
 ## 字幕说明

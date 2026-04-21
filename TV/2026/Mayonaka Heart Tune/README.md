@@ -2,9 +2,9 @@
   <img src="./cover.jpg" alt="作品封面" width="800" style="border-radius: 8px; margin-bottom: 16px;"/>
 </center>
 
-# Mayonaka Heart Tune
+# 午夜的倾心旋律
 
-《Mayonaka Heart Tune》是一部围绕广播与青春梦想展开的动画。
+《午夜的倾心旋律》是一部围绕广播与青春梦想展开的动画。
 故事讲述了主角遇到四位立志从事广播行业的少女，决心帮助她们实现梦想并寻找神秘人物阿波罗的真实身份。
 
 ## 字幕说明

@@ -2,9 +2,9 @@
   <img src="./cover.webp" alt="作品封面" width="800" style="border-radius: 8px; margin-bottom: 16px;"/>
 </center>
 
-# Kao ni Denai Kashiwada san to Kao ni Deru Oota kun
+# 不动声色的柏田与喜形于色的太田
 
-《Kao ni Denai Kashiwada san to Kao ni Deru Oota kun》是一部以“面无表情的柏田同学”和“情绪全写在脸上的太田同学”为核心的校园恋爱喜剧。
+《不动声色的柏田与喜形于色的太田》是一部以“面无表情的柏田同学”和“情绪全写在脸上的太田同学”为核心的校园恋爱喜剧。
 作品用鲜明反差推动人物互动，整体气质轻松又温暖。
 
 ## 字幕说明

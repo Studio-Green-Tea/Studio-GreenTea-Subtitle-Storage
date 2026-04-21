@@ -2,9 +2,9 @@
   <img src="./cover.webp" alt="作品封面" width="800" style="border-radius: 8px; margin-bottom: 16px;"/>
 </center>
 
-# Chichi wa Eiyuu Haha wa Seirei Musume no Watashi wa Tenseisha
+# 无敌的我是英雄爸爸和精灵妈妈的女儿
 
-《Chichi wa Eiyuu Haha wa Seirei Musume no Watashi wa Tenseisha》是一部以“英雄父亲、精灵母亲、转生女儿”一家人为核心的异世界奇幻作品。
+《无敌的我是英雄爸爸和精灵妈妈的女儿》是一部以“英雄父亲、精灵母亲、转生女儿”一家人为核心的异世界奇幻作品。
 故事从温馨家族日常出发，逐渐带出王族历史与精灵诅咒相关的长线谜团。
 
 ## 字幕说明

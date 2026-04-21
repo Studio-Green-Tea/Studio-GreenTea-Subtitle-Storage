@@ -2,9 +2,9 @@
   <img src="./cover.jpg" alt="作品封面" width="800" style="border-radius: 8px; margin-bottom: 16px;"/>
 </center>
 
-# Tsue to Tsurugi no Wistoria
+# 杖与剑的魔剑谭 S2
 
-《Tsue to Tsurugi no Wistoria》是一部奇幻冒险动画，讲述了在魔法世界中围绕杖与剑展开的精彩故事。
+《杖与剑的魔剑谭 S2》是一部奇幻冒险动画，讲述了在魔法世界中围绕杖与剑展开的精彩故事。
 作品描绘了主角们在冒险中成长、挑战强大敌人的旅程。
 
 ## 字幕说明

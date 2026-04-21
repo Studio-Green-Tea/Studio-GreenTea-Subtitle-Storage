@@ -2,9 +2,9 @@
   <img src="./cover.webp" alt="作品封面" width="800" style="border-radius: 8px; margin-bottom: 16px;"/>
 </center>
 
-# Chanto Suenai Kyuuketsuki-chan
+# 不擅吸血的吸血鬼
 
-《Chanto Suenai Kyuuketsuki-chan》是一部校园喜剧，主角是外表神秘却连吸血都不太擅长的吸血鬼少女。
+《不擅吸血的吸血鬼》是一部校园喜剧，主角是外表神秘却连吸血都不太擅长的吸血鬼少女。
 故事围绕她与知晓秘密的同学逐步拉近距离的日常展开，以反差感和轻松氛围为主。
 
 ## 字幕说明
