@@ -17,11 +17,15 @@
 ```text
 TV/
   2025/
-    10/
-      作品目錄/
-        README.md
-        [Studio GreenTea] 作品名 [01][WebRip][1080p].JPSC.ass
-        [Studio GreenTea] 作品名 [01][WebRip][1080p].JPTC.ass
+    作品目錄/
+      README.md
+      [Studio GreenTea] 作品名 [01][WebRip][1080p].JPSC.ass
+      [Studio GreenTea] 作品名 [01][WebRip][1080p].JPTC.ass
+  2026/
+    作品目錄/
+      README.md
+      [Studio GreenTea] 作品名 [01].JPSC.ass
+      [Studio GreenTea] 作品名 [01].JPTC.ass
 Movie/
   作品目錄/
     README.md

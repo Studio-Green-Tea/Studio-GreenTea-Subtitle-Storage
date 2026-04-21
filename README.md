@@ -21,6 +21,11 @@ TV/
         README.md
         [Studio GreenTea] 作品名 [01][WebRip][1080p].JPSC.ass
         [Studio GreenTea] 作品名 [01][WebRip][1080p].JPTC.ass
+  2026/
+      作品目录/
+        README.md
+        [Studio GreenTea] 作品名 [01].JPSC.ass
+        [Studio GreenTea] 作品名 [01].JPTC.ass
 Movie/
   作品目录/
     README.md
