@@ -32,7 +32,9 @@
 
 ## 字体下载
 
-- [字体下载（于完结后放上链接）]()
+- [字体包 Part 1](https://wwbuk.lanzoub.com/i8PIi3sgs1bi)（提取码：f9es）
+- [字体包 Part 2](https://wwbuk.lanzoub.com/ie59E3sgs53e)（提取码：7y2h）
+
 
 ## Staff
 

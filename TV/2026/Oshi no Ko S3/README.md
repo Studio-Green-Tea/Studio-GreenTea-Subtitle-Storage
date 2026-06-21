@@ -31,7 +31,9 @@
 
 ## 字体下载
 
-- [字体下载（于完结后放上链接）]()
+- [字体包 Part 1](https://wwbuk.lanzoub.com/iQBS03sgrqcd)（提取码：46zu）
+- [字体包 Part 2](https://wwbuk.lanzoub.com/i9h0X3sgrt1a)（提取码：g5p3）
+
 
 ## Staff
 

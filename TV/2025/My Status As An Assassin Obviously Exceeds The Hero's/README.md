@@ -31,7 +31,8 @@
 
 ## 字体下载
 
-- [字体下载（于完结后放上链接）]()
+- [字体包](https://wwbuk.lanzoub.com/ilc0i3sgrmqd)（提取码：8f0q）
+
 
 ## Staff
 

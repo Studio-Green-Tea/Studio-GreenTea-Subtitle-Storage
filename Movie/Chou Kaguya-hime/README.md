@@ -20,7 +20,12 @@
 
 ## 字体下载
 
-- [字体下载（于完结后放上链接）]()
+- [字体包 Part 1](https://wwbuk.lanzoub.com/iIMJO3sgqrab)（提取码：8foe）
+- [字体包 Part 2](https://wwbuk.lanzoub.com/iXkdh3sgqt0d)（提取码：dhmr）
+- [字体包 Part 3](https://wwbuk.lanzoub.com/iYL7x3sgquyd)（提取码：d7up）
+- [字体包 Part 4](https://wwbuk.lanzoub.com/ikb9h3sgqwub)（提取码：5snr）
+- [字体包 Part 5](https://wwbuk.lanzoub.com/iDhRS3sgqy3g)（提取码：7bb1）
+
 
 ## Staff
 

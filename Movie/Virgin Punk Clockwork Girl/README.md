@@ -20,7 +20,8 @@
 
 ## 字体下载
 
-- [字体下载（于完结后放上链接）]()
+- [字体包](https://wwbuk.lanzoub.com/iWIW13sgsr0d)（提取码：g3q5）
+
 
 ## Staff
 

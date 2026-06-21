@@ -32,7 +32,8 @@
 
 ## 字体下载
 
-- [字体下载（于完结后放上链接）]()
+- [字体包](https://wwbuk.lanzoub.com/i6Ti43sgrkte)（提取码：gj3s）
+
 
 ## Staff
 

@@ -20,7 +20,14 @@
 
 ## 字体下载
 
-- [字体下载（于完结后放上链接）]()
+- [字体包 Part 1](https://wwbuk.lanzoub.com/ixTlZ3sgqzxc)（提取码：f7im）
+- [字体包 Part 2](https://wwbuk.lanzoub.com/iSnWB3sgr0yj)（提取码：6kp8）
+- [字体包 Part 3](https://wwbuk.lanzoub.com/iVOHs3sgr27e)（提取码：drx3）
+- [字体包 Part 4](https://wwbuk.lanzoub.com/ifdwd3sgr3le)（提取码：4jyd）
+- [字体包 Part 5](https://wwbuk.lanzoub.com/iXhZf3sgr5kf)（提取码：4qb6）
+- [字体包 Part 6](https://wwbuk.lanzoub.com/iWi7e3sgr8dg)（提取码：7jev）
+- [字体包 Part 7](https://wwbuk.lanzoub.com/iA8TN3sgr9sh)（提取码：8q3n）
+
 
 ## Staff
 

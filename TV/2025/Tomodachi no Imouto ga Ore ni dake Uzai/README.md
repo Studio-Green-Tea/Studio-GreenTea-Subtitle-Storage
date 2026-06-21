@@ -31,7 +31,11 @@
 
 ## 字体下载
 
-- [字体下载（于完结后放上链接）]()
+- [字体包 Part 1](https://wwbuk.lanzoub.com/ig8m83sgs9fa)（提取码：8b8b）
+- [字体包 Part 2](https://wwbuk.lanzoub.com/iAm5M3sgsded)（提取码：cwjp）
+- [字体包 Part 3](https://wwbuk.lanzoub.com/i5Rmp3sgshtc)（提取码：ed7g）
+- [字体包 Part 4](https://wwbuk.lanzoub.com/iHjsp3sgsm1e)（提取码：b5nh）
+
 
 ## Staff
 

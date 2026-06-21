@@ -32,7 +32,9 @@
 
 ## 字体下载
 
-- [字体下载（于完结后放上链接）]()
+- [字体包 Part 1](https://wwbuk.lanzoub.com/i1mZt3sgrcna)（提取码：aths）
+- [字体包 Part 2](https://wwbuk.lanzoub.com/iu3Ru3sgrdpi)（提取码：gyzm）
+
 
 ## Staff
 
