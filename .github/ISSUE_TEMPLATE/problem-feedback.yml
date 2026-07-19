@@ -1,0 +1,57 @@
+name: 问题反馈
+description: 反馈字幕、文件、下载等问题
+title: "[问题反馈] "
+
+body:
+  - type: dropdown
+    id: problem_types
+    attributes:
+      label: 问题类型
+      description: 可同时选择多个类型
+      multiple: true
+      options:
+        - 字幕错字、漏字
+        - 字幕错译、漏译
+        - 时间轴不同步
+        - 字幕样式或排版
+        - 文件缺失或损坏
+        - 文件命名或目录问题
+        - 下载或访问问题
+        - 其他问题
+    validations:
+      required: true
+
+  - type: input
+    id: target
+    attributes:
+      label: 涉及的作品、文件或页面
+      placeholder: 例如：作品名 第03集 / 文件路径 / 页面链接
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: 问题位置
+      description: 字幕问题可填写时间点，文件问题可填写路径
+      placeholder: 例如：00:12:34 或字幕文件/作品名.ass
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 修改建议
+      description: 如有解决建议，请在此填写
+
+  - type: textarea
+    id: attachments
+    attributes:
+      label: 补充材料
+      description: 可粘贴截图、日志、参考来源或其他链接
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: 提交前确认
+      options:
+        - label: 我已确认没有内容相同的现有 Issue
+          required: true
