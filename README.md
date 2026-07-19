@@ -61,6 +61,7 @@ Movie/
 
 - 发现错字、错译、错轴、文件缺失或下载问题时，请提交[问题反馈](https://github.com/Studio-Green-Tea/Studio-GreenTea-Subtitle-Storage/issues/new?template=problem-feedback.yml)。
 - 如果已经准备好明确的修正内容，可以提交 [Pull Request](https://github.com/Studio-Green-Tea/Studio-GreenTea-Subtitle-Storage/pulls)。
+- 第一次使用 GitHub 时，请按照[字幕贡献与 PR 操作指南](docs/字幕贡献与PR操作指南.md)逐步操作。
 - 提交 Pull Request 前，请先阅读[贡献指南](https://github.com/Studio-Green-Tea/.github/blob/main/CONTRIBUTING.md)。
 
 Pull Request 是向官方仓库提出贡献，不代表任何人获得在仓库之外发布字幕修改版的许可。
