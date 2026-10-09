@@ -1,5 +1,5 @@
 <center>
-  <img src="./cover.jpg" alt="作品封面" width="800" style="border-radius: 8px; margin-bottom: 16px;"/>
+  <img src="./cover.webp" alt="作品封面" width="800" style="border-radius: 8px; margin-bottom: 16px;"/>
 </center>
 
 # 无职转生 第三季 ～到了异世界就拿出真本事～

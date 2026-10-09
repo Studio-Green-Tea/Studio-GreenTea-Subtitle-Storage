@@ -1,5 +1,5 @@
 <center>
-  <img src="./cover.jpg" alt="作品封面" width="800" style="border-radius: 8px; margin-bottom: 16px;"/>
+  <img src="./cover.webp" alt="作品封面" width="800" style="border-radius: 8px; margin-bottom: 16px;"/>
 </center>
 
 # 在超市后门吸烟的二人
