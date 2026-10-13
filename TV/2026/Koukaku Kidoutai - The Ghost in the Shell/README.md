@@ -28,7 +28,8 @@
 
 ## 字体下载
 
-（待补充）
+- [字体包 Part 1](https://lvchazmz.lanzoue.com/iTgpY4bvdodc)（提取码：6h5b）
+- [字体包 Part 2](https://lvchazmz.lanzoue.com/imvx44bvdqpg)（提取码：6wbg）
 
 ## Staff
 
