@@ -16,10 +16,6 @@ Style: Text_JP,FOT-UDKakugo_Large Pr6N B,55,&H00FFFFFF,&H000000FF,&H00000000,&H0
 Style: Top_JP,FOT-UDKakugo_Large Pr6N B,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,10,10,5,128
 Style: Text_SC,梦源黑体 SC W20,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,58,1
 Style: Top_SC,梦源黑体 SC W20,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,15,15,46,1
-Style: Text_SC - Ruby,梦源黑体 SC W20,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,15,15,130,1
-Style: Text_TC,Dream Han Sans TC W20,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,58,1
-Style: Top_TC,Dream Han Sans TC W20,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,15,15,46,1
-Style: Text_TC - Ruby,Dream Han Sans TC W20,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,15,15,130,1
 Style: Comment,方正兰亭中黑_GBK,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,30,0,15,1
 Style: Screen,方正兰亭中黑_GBK,50,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
 Style: title,方正中雅宋_GBK,80,&H00FFFFFF,&H000000FF,&H00F6EDEA,&H00000000,0,0,0,0,100,100,0,0,1,2,0,6,0,0,0,1
@@ -34,6 +30,8 @@ Style: OPJP3,[工具箱]宋体-简繁-DemiBold,55,&H00FFFFFF,&H00FFFFFF,&H00C488
 Style: EDJP,[工具箱]圆体-简繁-ExtraBold,55,&H004B8CF8,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,10,10,10,1
 Style: EDCN,[工具箱]圆体-简繁-ExtraBold,55,&H004B8CF8,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,3,0,1,4,0,2,10,10,10,1
 Style: Screen - temp,方正跃进体_GBK,50,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: INJP,A-OTF A1 Mincho Std Bold,40,&H00FFFFFF,&H000000FF,&H00A76002,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,20,10,10,128
+Style: INCN,方正筑紫明朝宋 简繁,52,&H00FFFFFF,&H000000FF,&H00A76002,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,20,10,54,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -706,6 +704,26 @@ Dialogue: 7,0:21:16.17,0:21:18.19,Text_SC,,0,0,0,,和小光一起
 Dialogue: 7,0:21:19.17,0:21:21.62,Text_SC,,0,0,0,,终于… 终于…
 Dialogue: 7,0:21:25.04,0:21:27.56,Text_SC,,0,0,0,,走到这一步了
 Comment: 0,0:00:00.00,0:00:00.00,Comment,,0,0,0,,---------------IN----------------------------
+Dialogue: 2,0:19:17.22,0:19:20.83,INJP,,0,0,0,,{\fad(300,300)\blur3\bord1.2}I don't know how deep the ocean is
+Dialogue: 2,0:19:23.56,0:19:27.06,INJP,,0,0,0,,{\fad(300,300)\blur3\bord1.2}‭I don't know how far I have to go
+Dialogue: 2,0:19:29.69,0:19:33.04,INJP,,0,0,0,,{\fad(300,300)\blur3\bord1.2}‭From the bottom of the sea
+Dialogue: 2,0:19:35.56,0:19:40.83,INJP,,0,0,0,,{\fad(300,300)\blur3\bord1.2}‭Can you hear my true song?
+Dialogue: 2,0:19:40.83,0:19:43.87,INJP,,0,0,0,,{\fad(300,300)\blur3\bord1.2}‭Let's fly high
+Dialogue: 2,0:19:43.87,0:19:47.07,INJP,,0,0,0,,{\fad(300,300)\blur3\bord1.2}‭Jump as far
+Dialogue: 2,0:19:47.07,0:19:53.30,INJP,,0,0,0,,{\fad(300,300)\blur3\bord1.2}as you want‬‬‬ ‭in this borderless world
+Dialogue: 2,0:19:53.30,0:19:56.09,INJP,,0,0,0,,{\fad(300,300)\blur3\bord1.2}‭Fly higher
+Dialogue: 2,0:19:56.09,0:19:59.39,INJP,,0,0,0,,{\fad(300,300)\blur3\bord1.2}‭No matter how far
+Dialogue: 2,0:19:59.39,0:20:05.98,INJP,,0,0,0,,{\fad(300,300)\blur3\bord1.2}‭Go embrace the light you dream of
+Dialogue: 3,0:19:17.22,0:19:20.83,INCN,,0,0,0,,{\fad(300,300)\blur3\bord1.2}我不知汪洋有多深
+Dialogue: 3,0:19:23.56,0:19:27.06,INCN,,0,0,0,,{\fad(300,300)\blur3\bord1.2}也不知前路有多长
+Dialogue: 3,0:19:29.69,0:19:33.04,INCN,,0,0,0,,{\fad(300,300)\blur3\bord1.2}我的歌声来自大海深处
+Dialogue: 3,0:19:35.56,0:19:40.83,INCN,,0,0,0,,{\fad(300,300)\blur3\bord1.2}你可听见这真诚的歌唱?
+Dialogue: 3,0:19:40.83,0:19:43.87,INCN,,0,0,0,,{\fad(300,300)\blur3\bord1.2}高高跃起吧
+Dialogue: 3,0:19:43.87,0:19:47.07,INCN,,0,0,0,,{\fad(300,300)\blur3\bord1.2}在这无垠天地
+Dialogue: 3,0:19:47.07,0:19:53.30,INCN,,0,0,0,,{\fad(300,300)\blur3\bord1.2}纵情跃向远方
+Dialogue: 3,0:19:53.30,0:19:56.09,INCN,,0,0,0,,{\fad(300,300)\blur3\bord1.2}再高些
+Dialogue: 3,0:19:56.09,0:19:59.39,INCN,,0,0,0,,{\fad(300,300)\blur3\bord1.2}无论多远
+Dialogue: 3,0:19:59.39,0:20:05.98,INCN,,0,0,0,,{\fad(300,300)\blur3\bord1.2}去拥抱你梦寐的光
 Comment: 0,0:00:00.00,0:00:00.00,Comment,,0,0,0,,---------------OP & STAFF----------------------
 Comment: 0,0:01:26.98,0:01:27.03,Comment,,0,0,0,,OP开始
 Dialogue: 1,0:02:56.94,0:02:59.95,Staff,,0,0,0,,{\blur3\bord2\fad(500,500)}本字幕由绿茶字幕组制作  仅供交流学习  请勿用于商业用途\N{\fscy20}\N{\fscx75\fscy75}监制: cryptate  翻译: 略略略 喵喵 阿托  校对: Sai神一命  时轴: cryptate  特效: 倒地  压制: 纺凪未来
