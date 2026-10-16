@@ -1,10 +1,4 @@
-[Script Info]
-; Font Subset: D75K3QVC - Zen Old Mincho Black
-; Font Subset: X3VN7D8K - FZYaSong-L-GBK
-; Font Subset: ZNU6D35W - Dream Han Serif TC W19
-; Font Subset: JOYYRN77 - Dream Han Serif SC W19
-; Font Subset: 08MJS2I9 - Dream Han Serif J W19
-Comment: Processed by 繁化姬 dict-7ea9895f-r1133 @ 2026/10/01 06:56:11 | https://zhconvert.org
+﻿[Script Info]
 Title: [Studio GreenTea] Kimi ga Shinu made Koi wo Shitai [13]
 ScriptType: v4.00+
 WrapStyle: 2
@@ -18,26 +12,30 @@ LayoutResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Dream Han Sans TC W20,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Text - JP,D75K3QVC,48,&H00FDFDFD,&H00FDFDFD,&H0064278E,&H00888888,0,0,0,0,100,100,1,0,1,2.4,1,2,0,0,10,1
-Style: Text - CN,ZNU6D35W,72,&H00FDFDFD,&H00FDFDFD,&H0064278E,&H00888888,0,0,0,0,100,100,1,0,1,2.7,0.9,2,0,0,48,1
-Style: Text - JP - UP,D75K3QVC,48,&H00FDFDFD,&H00FDFDFD,&H0064278E,&H00888888,0,0,0,0,100,100,1,0,1,2.4,0.8,8,0,0,70,1
-Style: Text - CN - UP,ZNU6D35W,72,&H00FDFDFD,&H00FDFDFD,&H0064278E,&H00888888,0,0,0,0,100,100,1,0,1,2.7,0.9,8,0,0,10,1
-Style: Title,X3VN7D8K,120,&H00353535,&H000000FF,&H00808080,&H00000000,0,0,0,0,100,100,12,0,1,1,0,5,0,0,0,1
-Style: Staff,X3VN7D8K,48,&H00353535,&H00353535,&H00808080,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,20,20,20,1
+Style: Text - JP,Zen Old Mincho Black,48,&H00FDFDFD,&H00FDFDFD,&H0064278E,&H00888888,0,0,0,0,100,100,1,0,1,2.4,1,2,0,0,10,1
+Style: Text - CN,Dream Han Serif TC W19,72,&H00FDFDFD,&H00FDFDFD,&H0064278E,&H00888888,0,0,0,0,100,100,1,0,1,2.7,0.9,2,0,0,48,1
+Style: Text - JP - UP,Zen Old Mincho Black,48,&H00FDFDFD,&H00FDFDFD,&H0064278E,&H00888888,0,0,0,0,100,100,1,0,1,2.4,0.8,8,0,0,70,1
+Style: Text - CN - UP,Dream Han Serif TC W19,72,&H00FDFDFD,&H00FDFDFD,&H0064278E,&H00888888,0,0,0,0,100,100,1,0,1,2.7,0.9,8,0,0,10,1
+Style: Title,FZYaSong-L-GBK,120,&H00353535,&H000000FF,&H00808080,&H00000000,0,0,0,0,100,100,12,0,1,1,0,5,0,0,0,1
+Style: Staff,FZYaSong-L-GBK,48,&H00353535,&H00353535,&H00808080,&H00000000,0,0,0,0,100,100,1,0,1,1,0,8,20,20,20,1
 Style: Screen,Dream Han Sans TC W20,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: OP - JP,D75K3QVC,48,&H00000000,&H00FDFDFD,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,0.8,0,7,20,0,92,1
-Style: OP - CN,ZNU6D35W,75,&H00000000,&H00FDFDFD,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,0.8,0,7,20,0,12,1
-Style: ED - JP,08MJS2I9,54,&H00FDFDFD,&H00FDFDFD,&H002B2B2B,&H00000000,0,0,0,0,100,100,1,0,1,4,0,8,0,0,77,1
-Style: ED - CN,ZNU6D35W,60,&H00FDFDFD,&H00FDFDFD,&H002B2B2B,&H00000000,0,0,0,0,100,100,1,0,1,4,0,8,0,0,20,1
-Style: Insert - JP,D75K3QVC,48,&H00FDFDFD,&H00FDFDFD,&H0064278E,&H00888888,0,0,0,0,100,100,1,0,1,2.4,1,7,20,0,64,1
-Style: Insert - CN,ZNU6D35W,64,&H00FDFDFD,&H00FDFDFD,&H0064278E,&H00888888,0,0,0,0,100,100,1,0,1,2.7,0.9,7,20,0,10,1
+Style: OP - JP,Zen Old Mincho Black,48,&H00000000,&H00FDFDFD,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,0.8,0,7,20,0,92,1
+Style: OP - CN,Dream Han Serif TC W19,75,&H00000000,&H00FDFDFD,&H00FFFFFF,&H00000000,0,0,0,0,100,100,1,0,1,0.8,0,7,20,0,12,1
+Style: ED - JP,Dream Han Serif J W19,54,&H00FDFDFD,&H00FDFDFD,&H002B2B2B,&H00000000,0,0,0,0,100,100,1,0,1,4,0,8,0,0,77,1
+Style: ED - CN,Dream Han Serif TC W19,60,&H00FDFDFD,&H00FDFDFD,&H002B2B2B,&H00000000,0,0,0,0,100,100,1,0,1,4,0,8,0,0,20,1
+Style: Insert - JP,Zen Old Mincho Black,48,&H00FDFDFD,&H00FDFDFD,&H0064278E,&H00888888,0,0,0,0,100,100,1,0,1,2.4,1,7,20,0,64,1
+Style: Insert - CN,Dream Han Serif TC W19,64,&H00FDFDFD,&H00FDFDFD,&H0064278E,&H00888888,0,0,0,0,100,100,1,0,1,2.7,0.9,7,20,0,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,[Title]
+Comment: 0,0:00:00.00,0:00:00.00,Title,,0,0,0,,{\pos(960,200)}與妳相戀到生命盡頭
+Comment: 0,0:12:10.96,0:12:11.00,Default,,0,0,0,,[Staff]
 Dialogue: 0,0:12:13.88,0:12:15.97,Staff,,0,0,0,,{\fad(250,0)\blur1}本字幕由綠茶字幕組製作　僅供交流學習　字幕組長期招募中　歡迎加入
 Dialogue: 0,0:12:13.88,0:12:15.97,Staff,,0,0,0,,{\fad(250,0)\blur1}入組考核群：777085761　觀眾交流群：1081719208
 Dialogue: 0,0:12:18.89,0:12:20.97,Staff,,0,0,0,,{\fad(250,0)\blur1}監製：cryptate　翻譯：圖書館的妖精  qisx  紙吹雪
 Dialogue: 0,0:12:18.89,0:12:20.97,Staff,,0,0,0,,{\fad(250,0)\blur1}校對：阿托　時軸：4323　後期：白斬雞白斬雞
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,[Dialogue]
 Dialogue: 6,0:00:04.40,0:00:05.94,Text - JP,,0,0,0,,まだ…
 Dialogue: 7,0:00:04.40,0:00:05.94,Text - CN,,0,0,0,,我還是…
 Dialogue: 6,0:00:06.91,0:00:08.02,Text - JP,,0,0,0,,慣れない
@@ -104,9 +102,9 @@ Dialogue: 6,0:02:14.06,0:02:16.78,Text - JP,,0,0,0,,もしかしてって思っ�
 Dialogue: 7,0:02:14.06,0:02:16.78,Text - CN,,0,0,0,,所以我就在想她們是不是在一起了
 Dialogue: 6,0:02:17.91,0:02:21.50,Text - JP,,0,0,0,,おやおや　いい青春だ
 Dialogue: 7,0:02:17.91,0:02:21.50,Text - CN,,0,0,0,,哎呀哎呀  真是青春啊
-Dialogue: 6,0:02:26.32,0:02:29.41,Text - JP,,0,0,0,,ほんと羨ましい
+Dialogue: 6,0:02:26.32,0:02:29.41,Text - JP,,0,0,0,,ほんとう羨ましい
 Dialogue: 7,0:02:26.32,0:02:29.41,Text - CN,,0,0,0,,真是羨慕她們
-Dialogue: 6,0:02:32.13,0:02:36.55,Text - JP,,0,0,0,,もしかして二人に当てられて恋人に会えたく…
+Dialogue: 6,0:02:32.13,0:02:36.55,Text - JP,,0,0,0,,もしかして二人に当てられて恋人に会いたく…
 Dialogue: 7,0:02:32.13,0:02:36.55,Text - CN,,0,0,0,,難道是受她們的影響  想見自己的戀人…
 Dialogue: 6,0:02:39.29,0:02:40.13,Text - JP,,0,0,0,,ごめん
 Dialogue: 7,0:02:39.29,0:02:40.13,Text - CN,,0,0,0,,抱歉
@@ -152,8 +150,8 @@ Dialogue: 6,0:03:48.18,0:03:49.33,Text - JP,,600,0,0,,ちょっとミミ
 Dialogue: 7,0:03:48.18,0:03:49.33,Text - CN,,600,0,0,,等一下美美
 Dialogue: 6,0:03:48.18,0:03:50.99,Text - JP,,0,800,0,,二人とも　早く
 Dialogue: 7,0:03:48.18,0:03:50.99,Text - CN,,0,800,0,,你們兩個也是  快走吧
-Dialogue: 6,0:03:50.46,0:03:51.79,Text - JP,,600,0,0,,また走るの
-Dialogue: 7,0:03:50.46,0:03:51.79,Text - CN,,600,0,0,,又要跑嗎
+Dialogue: 6,0:03:49.62,0:03:51.79,Text - JP,,600,0,0,,もうまた走るの
+Dialogue: 7,0:03:49.62,0:03:51.79,Text - CN,,600,0,0,,不是吧又要跑嗎
 Dialogue: 6,0:03:52.92,0:03:53.93,Text - JP,,0,0,0,,アリも行こう
 Dialogue: 7,0:03:52.92,0:03:53.93,Text - CN,,0,0,0,,亞里也趕快走吧
 Dialogue: 6,0:03:53.93,0:03:54.83,Text - JP,,0,0,0,,うん
@@ -164,7 +162,7 @@ Dialogue: 6,0:03:57.34,0:04:00.47,Text - JP - UP,,0,0,0,,では　大問四の�
 Dialogue: 6,0:03:57.34,0:03:59.14,Text - JP,,0,0,0,,それでねそれでね
 Dialogue: 7,0:03:57.34,0:04:00.47,Text - CN - UP,,0,0,0,,接下來  我們來看看第四大題
 Dialogue: 7,0:03:57.34,0:03:59.14,Text - CN,,0,0,0,,還有啊還有啊
-Dialogue: 6,0:03:59.14,0:04:02.56,Text - JP,,0,0,0,,この間先生が　大きな木の実くれてね
+Dialogue: 6,0:03:59.14,0:04:02.56,Text - JP,,0,0,0,,こないだ先生が　大きな木の実くれてね
 Dialogue: 7,0:03:59.14,0:04:02.56,Text - CN,,0,0,0,,上次老師還給了我一個超大的堅果呢
 Dialogue: 6,0:04:01.75,0:04:04.69,Text - JP - UP,,0,0,0,,この設問は　暗記では書けません
 Dialogue: 7,0:04:01.75,0:04:04.69,Text - CN - UP,,0,0,0,,這個問題  光靠背是沒有用的
@@ -208,7 +206,7 @@ Dialogue: 6,0:05:22.69,0:05:23.69,Text - JP,,0,0,0,,ありがとう
 Dialogue: 7,0:05:22.69,0:05:23.69,Text - CN,,0,0,0,,謝謝
 Dialogue: 6,0:05:27.45,0:05:30.49,Text - JP,,0,0,0,,絶対ね　いつでもいいからね
 Dialogue: 7,0:05:27.45,0:05:30.49,Text - CN,,0,0,0,,下次一定要來哦  我們隨時有空
-Dialogue: 6,0:05:37.54,0:05:40.11,Text - JP,,0,0,0,,気を使われている
+Dialogue: 6,0:05:37.54,0:05:40.11,Text - JP,,0,0,0,,気を遣われている
 Dialogue: 7,0:05:37.54,0:05:40.11,Text - CN,,0,0,0,,讓她們擔心了呢
 Dialogue: 6,0:05:41.85,0:05:42.71,Text - JP,,0,0,0,,けど…
 Dialogue: 7,0:05:41.85,0:05:42.71,Text - CN,,0,0,0,,即便如此…
@@ -362,8 +360,8 @@ Dialogue: 6,0:11:41.81,0:11:42.43,Text - JP,,0,0,0,,先輩…
 Dialogue: 7,0:11:41.81,0:11:42.43,Text - CN,,0,0,0,,學姐…
 Dialogue: 6,0:11:42.43,0:11:43.80,Text - JP,,0,0,0,,なんて
 Dialogue: 7,0:11:42.43,0:11:43.80,Text - CN,,0,0,0,,我隨便說說的
-Dialogue: 6,0:11:43.80,0:11:46.36,Text - JP,,0,0,0,,知ったような口聞いてごめんね
-Dialogue: 7,0:11:43.80,0:11:46.36,Text - CN,,0,0,0,,抱歉啊一副很了解她的樣子
+Dialogue: 6,0:11:43.80,0:11:46.36,Text - JP,,0,0,0,,知ったような口効いてごめんね
+Dialogue: 7,0:11:43.80,0:11:46.36,Text - CN,,0,0,0,,抱歉啊說的好像我很了解她一樣
 Dialogue: 6,0:11:46.36,0:11:49.31,Text - JP,,0,0,0,,先輩　謝ってばかりですよ
 Dialogue: 7,0:11:46.36,0:11:49.31,Text - CN,,0,0,0,,學姐  妳今天一直在道歉哦
 Dialogue: 6,0:11:50.57,0:11:52.18,Text - JP,,0,0,0,,そうかな
@@ -479,7 +477,7 @@ Dialogue: 7,0:14:33.79,0:14:35.10,Text - CN,,0,0,0,,那妳跟我來一下
 Dialogue: 6,0:14:35.49,0:14:36.31,Text - JP,,0,0,0,,え？
 Dialogue: 7,0:14:35.49,0:14:36.31,Text - CN,,15,0,0,,欸？
 Dialogue: 6,0:14:36.81,0:14:39.12,Text - JP,,0,0,0,,さ　行くよー
-Dialogue: 7,0:14:36.81,0:14:39.12,Text - CN,,0,0,0,,好了  我們走吧
+Dialogue: 7,0:14:36.81,0:14:39.12,Text - CN,,0,0,0,,來嘛  我們走吧
 Dialogue: 6,0:14:42.67,0:14:46.38,Text - JP,,0,0,0,,ああ　午後の授業始まっちゃうな
 Dialogue: 7,0:14:42.67,0:14:46.38,Text - CN,,0,0,0,,啊  下午的課馬上就要開始了呢
 Dialogue: 6,0:14:47.23,0:14:49.20,Text - JP,,0,0,0,,もう間に合いませんよ
@@ -518,7 +516,7 @@ Dialogue: 6,0:15:46.71,0:15:47.72,Text - JP,,0,0,0,,はあ
 Dialogue: 7,0:15:46.71,0:15:47.72,Text - CN,,0,0,0,,也是
 Dialogue: 6,0:15:50.35,0:15:52.52,Text - JP,,0,0,0,,ほら　町も見えるよ
 Dialogue: 7,0:15:50.35,0:15:52.52,Text - CN,,0,0,0,,妳看  還可以看到小鎮哦
-Dialogue: 6,0:15:52.52,0:15:54.10,Text - JP,,0,0,0,,ほんと
+Dialogue: 6,0:15:52.52,0:15:54.10,Text - JP,,0,0,0,,本当
 Dialogue: 7,0:15:52.52,0:15:54.10,Text - CN,,0,0,0,,真的欸
 Dialogue: 6,0:15:54.88,0:15:57.31,Text - JP,,0,0,0,,アリちゃんはどこで生まれたの
 Dialogue: 7,0:15:54.88,0:15:57.31,Text - CN,,0,0,0,,亞里妳是在哪出生的
@@ -702,7 +700,7 @@ Dialogue: 6,0:21:18.57,0:21:19.44,Text - JP,,0,0,0,,え？
 Dialogue: 7,0:21:18.57,0:21:19.44,Text - CN,,15,0,0,,什麼？
 Dialogue: 6,0:21:19.44,0:21:22.76,Text - JP,,0,0,0,,じゃあシーナちゃんとミミちゃんを避けちゃってるの
 Dialogue: 7,0:21:19.44,0:21:22.76,Text - CN,,0,0,0,,所以妳現在是在躲著席娜和美美嗎
-Dialogue: 6,0:21:23.66,0:21:27.01,Text - JP,,0,0,0,,気を使わせてると思うと　つい…
+Dialogue: 6,0:21:23.66,0:21:27.01,Text - JP,,0,0,0,,気を遣わせてると思うと　つい…
 Dialogue: 7,0:21:23.66,0:21:27.01,Text - CN,,0,0,0,,一想到要勞煩她們關照我  不小心就…
 Dialogue: 6,0:21:28.01,0:21:29.17,Text - JP,,0,0,0,,それでも
 Dialogue: 7,0:21:28.01,0:21:29.17,Text - CN,,0,0,0,,就算這樣
@@ -792,6 +790,7 @@ Dialogue: 6,0:23:27.49,0:23:29.96,Text - JP,,0,0,0,,シーナ　早く
 Dialogue: 7,0:23:27.49,0:23:29.96,Text - CN,,0,0,0,,席娜  快點
 Dialogue: 6,0:23:29.96,0:23:30.94,Text - JP,,0,0,0,,待って
 Dialogue: 7,0:23:29.96,0:23:30.94,Text - CN,,0,0,0,,慢點
+Comment: 0,0:19:27.15,0:19:27.65,Default,,0,0,0,,[Insert]
 Dialogue: 0,0:19:27.65,0:19:29.98,Insert - JP,,0,0,0,,{\fad(250,250)\fax-0.15\blur3}会いたい
 Dialogue: 1,0:19:27.65,0:19:29.98,Insert - CN,,0,0,0,,{\fad(250,250)\fax-0.15\blur3}想見妳
 Dialogue: 0,0:19:29.98,0:19:32.99,Insert - JP,,0,0,0,,{\fad(250,250)\fax-0.15\blur3}きみに会いたい
@@ -834,6 +833,7 @@ Dialogue: 0,0:20:42.31,0:20:48.73,Insert - JP,,0,0,0,,{\fad(250,250)\fax-0.15\bl
 Dialogue: 1,0:20:42.31,0:20:48.73,Insert - CN,,0,0,0,,{\fad(250,250)\fax-0.15\blur3}我啊  一定是個幸福的人吧
 Dialogue: 0,0:20:48.73,0:20:55.65,Insert - JP,,0,0,0,,{\fad(250,250)\fax-0.15\blur3}僕は　僕は　幸せものだ
 Dialogue: 1,0:20:48.73,0:20:55.65,Insert - CN,,0,0,0,,{\fad(250,250)\fax-0.15\blur3}我真是個幸福的人啊
+Comment: 0,0:22:09.73,0:22:09.77,Default,,0,0,0,,[ED]
 Dialogue: 0,0:22:21.32,0:22:27.24,ED - JP,,0,0,0,,{\fad(240,240)\blur4}Everything melts into the dead of the night
 Dialogue: 1,0:22:21.32,0:22:27.24,ED - CN,,0,0,0,,{\fad(240,240)\blur4}萬物消融於夜的死寂
 Dialogue: 0,0:22:27.24,0:22:32.62,ED - JP,,0,0,0,,{\fad(240,240)\blur4}As if even gravity fades away
@@ -860,11 +860,4 @@ Dialogue: 0,0:23:21.38,0:23:25.01,ED - JP,,0,0,0,,{\fad(240,240)\blur4}目を逸
 Dialogue: 1,0:23:21.38,0:23:25.01,ED - CN,,0,0,0,,{\fad(240,240)\blur4}我的視線也漸漸飄散
 Dialogue: 0,0:23:31.35,0:23:38.15,ED - JP,,0,0,0,,{\fad(240,240)\blur4}Stay in night
 Dialogue: 1,0:23:31.35,0:23:38.15,ED - CN,,0,0,0,,{\fad(240,240)\blur4}只願留在此夜
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,[Title]
-Comment: 0,0:00:00.00,0:00:00.00,Title,,0,0,0,,{\pos(960,200)}與妳相戀到生命盡頭
-Comment: 0,0:12:10.96,0:12:11.00,Default,,0,0,0,,[Staff]
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,[Dialogue]
-Comment: 0,0:19:27.15,0:19:27.65,Default,,0,0,0,,[Insert]
-Comment: 0,0:22:09.73,0:22:09.77,Default,,0,0,0,,[ED]
 Comment: 0,0:23:40.02,0:23:40.07,Default,,0,0,0,,[End]
-
