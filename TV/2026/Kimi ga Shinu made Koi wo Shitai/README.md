@@ -31,7 +31,7 @@
 
 ## 字体下载
 
-（待补充）
+- [字体包](https://lvchazmz.lanzoue.com/ipNwz4c1ts8d)（提取码：83vx）
 
 ## Staff
 
