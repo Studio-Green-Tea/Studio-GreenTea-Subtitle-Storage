@@ -29,9 +29,9 @@
 
 ## 字体下载
 
-- [字体包 Part 1](https://wwbuk.lanzoub.com/iSnPm4831rwb)（提取码：9zj9）
-- [字体包 Part 2](https://wwbuk.lanzoub.com/i8c8k4831tyf)（提取码：96iu）
-
+- [字体包 Part 1](https://lvchazmz.lanzoue.com/ic9Vd4c84icj)（提取码：3axb）
+- [字体包 Part 2](https://lvchazmz.lanzoue.com/iEpIJ4c84j5i)（提取码：7663）
+- [字体包 Part 3](https://lvchazmz.lanzoue.com/ickUy4c84lgb)（提取码：au3d）
 
 ## Staff
 

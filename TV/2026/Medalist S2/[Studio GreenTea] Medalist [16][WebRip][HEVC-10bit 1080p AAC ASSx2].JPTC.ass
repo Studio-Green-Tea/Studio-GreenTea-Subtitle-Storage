@@ -14,9 +14,6 @@ Original Script: 绿茶字幕组
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Text_JP,FOT-UDKakugo_Large Pr6N B,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.6,0,2,10,10,16,128
 Style: Top_JP,FOT-UDKakugo_Large Pr6N B,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,10,10,5,128
-Style: Text_SC,梦源黑体 SC W20,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,58,1
-Style: Top_SC,梦源黑体 SC W20,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,15,15,46,1
-Style: Text_SC - Ruby,梦源黑体 SC W20,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,15,15,130,1
 Style: Text_TC,Dream Han Sans TC W20,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,58,1
 Style: Top_TC,Dream Han Sans TC W20,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,15,15,46,1
 Style: Text_TC - Ruby,梦源黑体 SC W20,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,15,15,130,1
