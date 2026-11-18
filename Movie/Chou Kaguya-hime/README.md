@@ -20,12 +20,11 @@
 
 ## 字体下载
 
-- [字体包 Part 1](https://wwbuk.lanzoub.com/iIMJO3sgqrab)（提取码：8foe）
-- [字体包 Part 2](https://wwbuk.lanzoub.com/iXkdh3sgqt0d)（提取码：dhmr）
-- [字体包 Part 3](https://wwbuk.lanzoub.com/iYL7x3sgquyd)（提取码：d7up）
-- [字体包 Part 4](https://wwbuk.lanzoub.com/ikb9h3sgqwub)（提取码：5snr）
-- [字体包 Part 5](https://wwbuk.lanzoub.com/iDhRS3sgqy3g)（提取码：7bb1）
-
+- [字体包 Part 1](https://lvchazmz.lanzoue.com/i5vio4fpapaf)（提取码：c9v0）
+- [字体包 Part 2](https://lvchazmz.lanzoue.com/i5gRw4fpauaf)（提取码：7916）
+- [字体包 Part 3](https://lvchazmz.lanzoue.com/ij0IG4fpay2b)（提取码：901g）
+- [字体包 Part 4](https://lvchazmz.lanzoue.com/i3cjK4fpb18f)（提取码：46e0）
+- [字体包 Part 5](https://lvchazmz.lanzoue.com/iudVk4fpb2gj)（提取码：61a9）
 
 ## Staff
 
